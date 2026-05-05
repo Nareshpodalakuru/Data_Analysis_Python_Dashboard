@@ -14,7 +14,7 @@ Data Cleaning and Transformation
 Data Visualization
 Dashboard Preview
 
-(Dashboard1.png)
+![Dashboard](Dashboard1.png)
 
 Files Included
 Data_Analysis_Dashboard.pbix
